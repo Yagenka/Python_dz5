@@ -1,3 +1,5 @@
+# Создайте программу для игры в "Крестики-нолики".
+
 board = list(range(1,10))
 
 def draw_board(board):
